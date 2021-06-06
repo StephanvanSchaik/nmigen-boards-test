@@ -1,0 +1,11 @@
+# Try the toolchains in the following order:
+
+# Intel Quartus 20.1
+/opt/quartus-lite-20.1.1.720/quartus/bin
+# Altera Quartus 13.1
+$HOME/altera/13.1/quartus/bin
+
+# Xilinx Vivado 2020.1
+$HOME/tools/Xilinx/Vivado/2020.1/bin
+# Xilinx ISE 14.7
+$HOME/tools/Xilinx/14.7/ISE_DS/ISE/bin/lin64
